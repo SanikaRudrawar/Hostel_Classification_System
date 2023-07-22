@@ -1,0 +1,343 @@
+,hostel.0me,City,price,Distance,Rating,Purchased,lat,lon
+1,"""Bike & Bed"" CharinCo Hostel",Osaka,3300,2.9,9.2,1,34.682678,135.5137671
+2,& And Hostel,Fukuoka-City,2600,0.7,9.5,1,0,0
+3,&And Hostel Akihabara,Tokyo,3600,7.8,8.7,1,35.6974473,139.7774724
+4,&And Hostel Ueno,Tokyo,2600,8.7,3.6,0,35.712716,139.783667
+5,&And Hostel-Asakusa North-,Tokyo,1500,10.5,2.5,0,35.7278979,139.7983712
+6,1night1980hostel Tokyo,Tokyo,2100,9.4,5.1,0,35.724384,139.7869499
+7,328 Hostel & Lounge,Tokyo,3300,16.5,9.3,1,35.5480439,139.7454672
+8,36Hostel,Hiroshima,2000,1.6,9.5,1,0,0
+9,3Q House - Asakusa Smile,Tokyo,2500,10.2,4.1,0,0,0
+10,Ace Inn Shinjuku,Tokyo,2200,3,7.7,1,35.6925119,139.7243036
+11,Air Osaka Hostel,Osaka,1600,9.7,9.2,1,34.6222596,135.4769556
+12,Aizuya Inn,Tokyo,2000,10.6,3.6,0,35.727547,139.800993
+13,Akihabara Hotel 3000,Tokyo,2200,8,10,1,35.6974904,139.779382
+14,Almond hostel & cafe Shibuya,Tokyo,2900,2.2,9.3,1,35.6700092,139.6875352
+15,Anne Hostel Asakusabashi,Tokyo,2000,8.9,9.1,1,35.6989448,139.7893595
+16,Anne Hostel Yokozu0,Tokyo,1800,9.5,9.1,1,35.6954897,139.7967977
+17,Ark Hostel,Osaka,2700,1.9,9,1,1.3108203,103.8731349
+18,ARTnSHELTER,Tokyo,2400,10.5,2.1,0,35.604242,139.742108
+19,AS House (Asakusa Smile),Tokyo,1600,10,7.8,0,35.707363,139.800616
+20,Asakusa Hostel Toukaisou,Tokyo,1300,9.3,1.3,0,35.713177,139.79081
+21,Asakusa Ryokan Toukaisou,Tokyo,3600,9.3,8.7,0,35.713177,139.79081
+22,Asakusahotel Wasou,Tokyo,2000,9.9,9.4,1,35.7118769,139.7966971
+23,Astro Station,Tokyo,3500,3.8,8.4,1,35.7143962,139.7036929
+24,B&S Eco Cube Shinsaibashi,Osaka,2600,4,8.6,1,34.6707458,135.4991771
+25,Backpackers Hostel K's House Hiroshima,Hiroshima,2600,19.2,3.2,0,34.392506,132.473831
+26,Backpackers Hostel K's House Kyoto,Kyoto,1800,2.4,9.2,1,34.989791,135.764916
+27,Backpackers Hostel K's House Tokyo,Tokyo,2100,9.2,9.2,1,35.705066,139.792253
+28,Backpackers Hotel Toyo Osaka,Osaka,1500,6.5,8.8,1,34.6483651,135.5041024
+29,Backstage Osaka Hostel & Bar,Osaka,2200,4.5,4.3,0,34.6670083,135.513299
+30,Beagle Tokyo Hostel & Apartments,Tokyo,3800,16.1,7.9,0,35.5504924,139.7410778
+31,Bed Stock,Fukuoka-City,2500,1.1,6.2,0,0,0
+32,Beehive Hostel Osaka,Osaka,2900,13.2,5.1,0,34.676892,135.508387
+33,Bigtree Guesthouse,Osaka,2900,36.6,9.6,1,34.4119443,135.3233376
+34,Bird Hostel,Kyoto,2700,1.1,9.3,1,35.0175416,135.7587254
+35,bnb+ Ninja Dojo Ueno,Tokyo,2500,8,5.2,0,0,0
+36,bnb+Shinjuku Castle,Tokyo,2500,1.3,5,1,0,0
+37,Bonfire Hostel Osaka,Osaka,1800,9.5,1.5,0,34.621308,135.506891
+38,Bonsai Guest House,Osaka,1800,5.9,8.7,1,0,0
+39,Book and Bed Tokyo - Kyoto,Kyoto,3800,0.9,6.4,0,35.0041178,135.7727965
+40,Book And Bed Tokyo Asakusa,Tokyo,4100,9.6,9.1,1,35.7107965,139.7949806
+41,Book And Bed Tokyo Fukuoka,Fukuoka-City,4300,0.3,4.2,0,33.5909933,130.3979662
+42,Book And Bed Tokyo Ikebukuro,Tokyo,4100,4.9,8.2,1,35.7310808,139.7085388
+43,Bunka Hostel Tokyo,Tokyo,2200,9.5,4.1,0,35.712108,139.79322
+44,Calendar Hotel,Kyoto,3500,8.8,9.2,1,0,0
+45,Capsule Hotel Anshin Oyado Akihabara,Tokyo,6200,0,10,1,0,0
+46,Capsule Hotel Anshin Oyado Shinbashi,Tokyo,6000,6.6,1.2,0,0,0
+47,Capsule Hotel Asahi Plaza Shinsaibashi,Osaka,3000,4,8.3,1,34.6707858,135.497847
+48,Capsule Inn Kinshichou,Tokyo,2600,10.9,2.4,0,35.6981223,139.81198
+49,Capsule Resort Kyoto Square,Kyoto,3100,1.3,9.6,1,35.0112333,135.7535562
+50,Capsule Value Kanda,Tokyo,3000,7.1,8.6,0,35.6895954,139.7707637
+51,Casa Macondo,Osaka,3000,5,6.9,1,0,0
+52,Centurion Cabin & Spa Kyoto,Kyoto,2500,1.1,8.9,0,35.003533,135.761618
+53,Centurion Hotel Residential Akasaka,Tokyo,2600,4.5,9,1,35.6738463,139.7376971
+54,Centurion Ladies Hostel Uenopark (Female only),Tokyo,2500,7.4,8.9,0,35.709199,139.770129
+55,Chaganjutei,Kyoto,3300,14.1,9.6,1,34.8876476,135.8007905
+56,CITAN Hostel,Tokyo,2500,8.1,9.4,1,35.691571,139.781352
+57,Coco Hostel Osaka,Osaka,2100,4.7,8.5,1,34.6644243,135.508221
+58,Colours,Kyoto,1600,1.8,8.9,1,0,0
+59,Comics & CapsuleHotel COMICAP kyotoshinkyogoku,Kyoto,2000,0.7,9.6,1,35.0053862,135.7676061
+60,Common de Hostel & Bar,Fukuoka-City,2500,0.8,9.9,0,33.5978245,130.4032209
+61,Daikoku Hostel,Osaka,2800,5.8,8,0,34.6550004,135.4971528
+62,Dotombori Base,Osaka,2500,4.3,8.7,0,34.6678045,135.5052683
+63,Downtown Inn Kyoto,Kyoto,1000,1.4,9.3,1,35.0052769,135.755182
+64,Drop Inn Osaka,Osaka,2800,1.4,8.8,1,34.7001589,135.4886189
+65,Edo Tokyo Hostel,Tokyo,1800,15.8,8.1,0,35.7129526,139.8638707
+66,Emblem Hostel Nishiarai,Tokyo,2000,13.3,9.3,0,35.7782,139.791216
+67,E0KA Asakusa Central Hostel,Tokyo,2600,9.7,9.3,1,35.7121845,139.795301
+68,Ezstay Osaka,Osaka,2000,4.6,3.1,0,34.6757318,135.535271
+69,Fairfield House,Kyoto,1700,1.9,9.3,1,0,0
+70,Family & bAKpAK Tokyo Hostel,Tokyo,1800,9.8,7.4,0,35.72369,139.79148
+71,Friends Kyo,Kyoto,2200,1.2,10,1,35.001371,135.7718
+72,FUJITAYA Kyoto,Kyoto,3500,2.6,0,0,0,0
+73,Fukuoka Backpackers Hostel,Fukuoka-City,2300,2.5,8.3,0,33.584119,130.428142
+74,Fukuoka Ha0 Hostel,Fukuoka-City,2500,0.8,9,0,33.5926482,130.4097719
+75,Funtoco Backpackers 0mba,Osaka,2300,5.5,9.3,1,34.656784,135.503623
+76,Gion Ryokan Q-beh,Kyoto,2800,1.5,9.5,1,35.0014418,135.7795363
+77,Goen Lounge＆Stay,Osaka,2000,18.2,8.9,1,34.815565,135.6505111
+78,Gojo Guest House,Kyoto,2000,1.9,9.5,0,34.9954879,135.7722097
+79,Gojo Guesthouse - Annex,Kyoto,2500,1.7,9.6,0,34.998209,135.775803
+80,4 Diner Inn Copain,Tokyo,3300,5.6,9.1,0,35.7346756,139.7182582
+81,Grids Kyoto Shijo Kawaramachi Hotel & Hostel,Kyoto,1800,1,9.7,1,35.004678,135.764823
+82,GRIDS TOKYO AKIHABARA HOTEL&HOSTEL,Tokyo,2400,8,8.7,0,35.696562,139.780326
+83,Grids Tokyo Asakusa-Bashi Hotel&Hostel,Tokyo,2200,8.3,9,1,35.696562,139.780326
+84,GRIDS TOKYO NIHOMBASHI EAST HOTEL&HOSTEL,Tokyo,2400,8.3,8.3,0,35.690286,139.783943
+85,Guest House Bola-Bola,Kyoto,2700,6.1,9.4,1,35.0147747,135.7015683
+86,Guest House Com Inn Hiroshima,Hiroshima,2900,2.5,8.9,0,34.405665,132.443757
+87,Guest House Denchi,Tokyo,3600,9.2,8.9,1,35.7128268,139.7895455
+88,Guest House Ga-Jyun,Kyoto,2000,1.4,9.6,1,35.009131,135.7833531
+89,Guest House Hachi,Kyoto,3200,3.2,10,0,34.9915805,135.7435285
+90,Guest House Hitsuji-An,Kyoto,2200,1.3,9.8,0,35.009679,135.75435
+91,Guest House Hokorobi,Fukuoka-City,2400,6,8.4,1,0,0
+92,Guest House Kaine,Fukuoka-City,2500,0.7,8.9,0,33.596604,130.403731
+93,Guest House Kyoto Inn,Kyoto,1500,3.3,8.9,1,34.990043,135.743165
+94,Guest House La Kongo,Osaka,2500,4.2,7.8,1,34.6687802,135.5078668
+95,Guest House Matsu,Osaka,1900,7.4,9.3,0,34.640747,135.495148
+96,Guest House ODORI,Osaka,2800,7.9,8.6,0,34.6372998,135.5231371
+97,Guest House Onoya,Osaka,2000,3.3,9.4,0,34.7025957,135.5376482
+98,Guest House Renjishi Kabuki,Kyoto,1500,2.5,8.7,1,34.9949044,135.7505144
+99,Guest House Roku,Hiroshima,2900,2.7,9.3,0,34.4074787,132.465716
+100,Guest House Shi0gawa-shuku Tokyo,Tokyo,3300,8.7,9.2,1,35.6217794,139.7403581
+101,Guest House Shiori Ann,Kyoto,1500,2,8.9,0,34.994889,135.759117
+102,Guest House TRACE,Tokyo,2700,8.7,7.7,1,0,0
+103,Guest House Yahata,Kyoto,2500,2,8.6,0,34.9976055,135.754772
+104,Guest House YULULU,Kyoto,1500,0.5,8.6,1,35.0098862,135.7626322
+105,Guesthouse Fete,Tokyo,2300,9.7,9.4,0,35.701441,139.7981
+106,Guesthouse Fujitatami,Osaka,2200,26.6,1.5,0,34.4698056,135.4575132
+107,Guesthouse Gloire,Osaka,2800,17.9,3.5,0,34.67197,135.511096
+108,Guesthouse HetoGep,Osaka,2500,14.5,2.5,0,34.6662004,135.5049204
+109,Guesthouse Hiroshima Mange Tak,Hiroshima,2800,18.9,3.5,0,34.3952854,132.445801
+110,Guesthouse Kagaribi,Tokyo,2200,11.8,2.1,0,35.7539265,139.7957726
+111,Guesthouse Morizou Female only,Osaka,2000,3.7,2.5,0,34.6800923,135.526955
+112,Guesthouse Origami,Kyoto,1500,1.7,3.6,0,0,0
+113,Guesthouse SAI,Osaka,1800,17.6,3.2,0,34.7412826,135.5661389
+114,Guesthouse Sensu,Tokyo,3300,15.7,1.2,0,35.553499,139.7405231
+115,Guesthouse Shitamachi-Kujo,Kyoto,1900,3.9,9.1,1,34.977079,135.762166
+116,Guesthouse Soi,Kyoto,1700,2.4,9.5,1,34.9917216,135.7776103
+117,Guesthouse U-En,Osaka,2300,1.9,9.5,1,34.6946473,135.4865055
+118,Harborside Guest House MI0TO,Fukuoka-City,2500,1.5,8.4,1,33.603186,130.406397
+119,HARUYA Hostels Aqua,Kyoto,1500,3.1,9,1,34.988516,135.748695
+120,HATAGO tenjin,Fukuoka-City,2300,19.5,3.5,0,33.5946282,130.3976545
+121,Hikari House,Tokyo,4000,1.4,6.2,0,35.6991367,139.7019965
+122,Hiromas Hostel in Akiba,Tokyo,2700,7.3,9.2,1,35.704546,139.7702062
+123,Hiromas Hostel in Kanda,Tokyo,2000,17.6,3.2,0,35.6928219,139.7763124
+124,Hiromas Inn  Chitose-Karasuyama,Tokyo,3000,0,7.5,1,35.6711619,139.6033214
+125,Hiroshima Ha0 Hostel,Hiroshima,2300,2.4,4.3,0,34.395097,132.478765
+126,Hiroshima Hostel EN,Hiroshima,3000,2.6,9.6,1,34.408,132.450789
+127,Hisayo's Inn,Tokyo,3800,15.7,3.2,0,0,0
+128,Home Hostel Osaka,Osaka,2700,6.2,9.7,1,0,0
+129,Homeikan,Tokyo,3600,6.3,9.3,1,35.711231,139.75625
+130,Hop Step Inn,Tokyo,1500,8.5,9.1,1,35.7560182,139.7382791
+131,Hostel & Cafe Bar Backpackers Miyajima,Hiroshima,2900,16.1,3.6,0,34.3101872,132.3046213
+132,Hostel 64 Osaka,Osaka,2700,3.4,8.6,0,34.6780282,135.4883418
+133,Hostel bedgasm,Tokyo,2900,18.5,3.6,0,35.72135,139.789033
+134,Hostel Bushi,Osaka,1900,18.5,6.2,0,34.6979324,135.5374497
+135,Hostel Chapter Two Tokyo,Tokyo,2700,9.8,10,1,35.709305,139.797217
+136,Hostel Chillout,Osaka,2300,4.3,9.6,1,0,0
+137,hostel DEN,Tokyo,2400,19.6,1.3,0,35.6910315,139.7766966
+138,Hostel Ebi,Kyoto,2500,1,9.7,1,35.0050582,135.760511
+139,Hostel Ebisutei Souzou with Sake Bar,Osaka,2400,15.9,3.6,0,34.6560531,135.5052993
+140,Hostel Enisia 0mba,Osaka,3000,4.3,9.3,1,34.6681,135.503292
+141,Hostel Ginkakuji,Kyoto,1300,12.6,4.9,0,35.027017,135.791229
+142,Hostel HARUYA Book,Kyoto,1500,3.1,8.6,1,0,0
+143,Hostel HARUYA Kyoto,Kyoto,1500,21.6,3.5,0,35.008755,135.778964
+144,HOSTEL HYAKU,Osaka,2700,4.4,9.5,1,34.6676664,135.5109784
+145,Hostel J Culture 168,Osaka,3000,20.5,3.6,0,36.204824,138.252924
+146,Hostel Jin,Osaka,2500,4.3,9.6,1,34.6810161,135.4661493
+147,Hostel Kyoto Kizu0,Kyoto,1800,2.1,9.4,1,34.9936138,135.7626527
+148,Hostel LnK (Lodging & Kin),Osaka,3300,16.5,2.5,0,34.656382,135.502521
+149,Hostel Mallika,Hiroshima,2500,0.7,9.3,1,34.389848,132.4499424
+150,Hostel Mitsuwaya Osaka,Osaka,3200,14.6,2.6,0,34.670596,135.513379
+151,Hostel moku-moku,Osaka,3500,4,9.6,1,34.74071,135.516458
+152,Hostel Mundo,Kyoto,1400,20.1,3.6,0,35.0204264,135.7479461
+153,Hostel Mundo Chiquito,Kyoto,1400,1.4,9.5,1,35.015514,135.753339
+154,Hostel 0mba Takumi,Osaka,2000,18.6,3.2,0,0,0
+155,Hostel Pumpkey Tokyo,Tokyo,3400,2.3,8.7,1,35.686319,139.716957
+156,Hostel Q,Osaka,2900,16.2,3.1,0,34.6692633,135.4986093
+157,Hostel Rakutsuki,Osaka,1900,4.7,9.5,1,34.6647159,135.5062517
+158,Hostel Stand By Me,Fukuoka-City,4000,1.6,8.9,1,0,0
+159,Hostel Teltel Bouzu,Osaka,2500,3.8,9,1,34.6734621,135.5091721
+160,Hostel TOKI,Fukuoka-City,2800,1.9,3.6,1,0,0
+161,Hostel WAQWAQ Tokyo Ueno Asakusa,Tokyo,1600,9,8.9,1,35.717633,139.785178
+162,HOSTEL WASABI Kyoto Machiya Soba,Kyoto,2000,16.5,4.2,0,35.0249099,135.7481084
+163,HOSTEL WASABI Osaka Bed with Library,Osaka,1500,14.6,4.3,0,34.666552,135.503826
+164,Hostel＆Café East57 Asakusabashi,Tokyo,2200,8.7,3.2,0,35.6967579,139.7876509
+165,Hotel Cargo Shinsaibashi,Osaka,4200,3.2,8.7,1,34.678242,135.503563
+166,Hotel Chuo,Osaka,1500,6.4,6.4,1,34.6490104,135.5046082
+167,Hotel Graphy Nezu,Tokyo,1800,17.5,1.3,0,35.717269,139.768667
+168,Hotel Kawase Tokyo and Capsule,Tokyo,1900,10.2,3.2,0,0,0
+169,Hotel Mikado,Osaka,2000,6.5,8.7,1,0,0
+170,Hotel Raizan South,Osaka,2000,20.9,4.2,0,34.648413,135.504278
+171,Hotel Shin-Imamiya,Osaka,1400,6.3,6.6,1,34.6497931,135.5015478
+172,Hotel Sun Plaza,Osaka,1300,16.3,3.6,0,0,0
+173,Hotel Taiyo,Osaka,1500,6.5,8.1,1,34.6483624,135.5047718
+174,Hotel Wako,Osaka,1600,16.5,3.2,0,34.6459573,135.5018819
+175,Hotel&Hostel On the Marks Tokyo Kawasaki,Tokyo,1900,18.1,2.5,0,35.5269926,139.6985808
+176,Idocoro,Osaka,1800,18.3,1.6,0,34.6873302,135.5086675
+177,Ikidane House,Tokyo,2000,8.2,9.1,1,35.7373998,139.7604533
+178,Ikidane House Asakusa Hatago,Tokyo,2000,10,8.9,1,35.722089,139.7950489
+179,Ikidane House 0mba,Osaka,1200,6.5,9.3,1,34.6479104,135.5019794
+180,Ikoi-no-Ie Kyoto,Kyoto,2700,20.2,2.3,0,34.994033,135.757046
+181,iloha Hostel 0mba Shinsaibashi,Osaka,2600,19.6,3.1,0,34.673766,135.503048
+182,IM Guest House,Osaka,1900,18.6,6.5,0,0,0
+183,Imano Kyoto Kiyomizu Hostel,Kyoto,2200,1.9,9.5,1,34.995592,135.776144
+184,Imano Tokyo Ginza Hostel,Tokyo,2700,17.9,6.5,0,35.6723059,139.7729057
+185,Imano Tokyo Hostel,Tokyo,3300,1.5,9.6,1,35.6935053,139.7077128
+186,IRORI Nihonbashi Hostel and Kitchen,Tokyo,2100,14.6,2.4,0,35.6926538,139.7836767
+187,Iza Tokyo Asakusa Guesthouse,Tokyo,2500,9.9,9.3,1,35.706708,139.799302
+188,J-Hoppers Hiroshima Guesthouse,Hiroshima,2300,9.8,2.6,0,34.3930208,132.4472444
+189,J-Hoppers Kyoto Guest House,Kyoto,1900,3.6,9,1,34.979439,135.761616
+190,J-Hoppers Osaka Guesthouse,Osaka,2300,1.9,9.5,1,34.697435,135.484861
+191,J-Hoppers Osaka Universal,Osaka,2500,15.2,2.6,0,34.675236,135.442876
+192,J's Backpackers,Tokyo,1600,16.6,8.3,1,35.745044,139.8623809
+193,Jam Hostel Kyoto Gion,Kyoto,1500,23.2,2.3,0,35.004919,135.772379
+194,Japanize Guest House,Tokyo,1900,8.1,7.6,1,35.6925343,139.7816602
+195,JGH Tokyo,Tokyo,1600,13.2,1.5,0,35.8072664,139.708425
+196,Jimbocho Sakura Hotel,Tokyo,2200,15.6,1.2,0,35.694959,139.756455
+197,Jiyujin,Kyoto,2600,21.2,2.1,0,34.9949965,135.76116
+198,Juyoh Hotel,Tokyo,2900,10.7,3.1,0,35.7267106,139.8007803
+199,Kaisu Hostel,Tokyo,3900,4.4,3.2,0,35.669916,139.734537
+200,"Kaneyoshi Ryokan, 0mba Dotombori",Osaka,6500,4.2,3.6,0,34.66926,135.505474
+201,Ken's House,Osaka,2000,4.7,2.3,0,0,0
+202,Khaosan Kyoto Guest House,Kyoto,2000,1.1,9.6,0,0,0
+203,Khaosan Tokyo Kabuki,Tokyo,3000,9.7,4.5,1,35.711436,139.795251
+204,Khaosan Tokyo Laboratory,Tokyo,2600,9.3,4.5,1,35.711861,139.791328
+205,Khaosan Tokyo Origami,Tokyo,2500,10,4.3,1,35.71634,139.797381
+206,Khaosan Tokyo Samurai,Tokyo,2500,9.5,4.2,1,35.714887,139.792325
+207,Khaosan World Asakusa RYOKAN & HOSTEL,Tokyo,2500,9.5,4.2,1,35.714595,139.791771
+208,Khaosan World 0mba,Osaka,2100,4.5,6.3,0,34.666165,135.49717
+209,Khaosan World Ryogoku Hostel,Tokyo,2300,9.5,4.2,0,35.6943259,139.7967617
+210,Khaosan World Tennoji Hostel,Osaka,2300,6.6,7,1,34.64884,135.5183093
+211,Kia Ora Budgetstay,Fukuoka-City,2600,2,4,0,33.5951129,130.4225942
+212,Kintetsu Friendly Hostel -Osaka Tennoji Park-,Osaka,2000,6.5,3.5,1,34.6485086,135.5122677
+213,Koenji Junjo Hotel,Tokyo,3300,3.9,8,0,0,0
+214,Kyo To,Kyoto,2000,1.9,9,1,0,0
+215,Kyoto Be Open Hostel,Kyoto,3400,3.8,8.4,0,34.977498,135.764191
+216,Kyoto Guesthouse Roujiya,Kyoto,3500,2.1,8.1,1,35.009207,135.74531
+217,Kyoto Ha0 Hostel,Kyoto,1800,2.5,8.9,1,34.9897078,135.760508
+218,Kyoto Hostel ZEN,Kyoto,2500,0.7,0,1,0,0
+219,Kyoto Morris Hostel,Kyoto,2800,0.5,2.1,0,35.0156844,135.7678365
+220,Kyoto Station Base,Kyoto,2500,3.7,1,0,34.9788089,135.761469
+221,Kyoto Tsukiusagi,Kyoto,3000,8.7,3.2,0,34.940169,135.805378
+222,Kyoto UTANO Youth Hostel,Kyoto,3400,6.4,4.1,0,35.0269847,135.699365
+223,Kyoubashi Ryokan,Hiroshima,3400,1.8,8.6,1,34.3938412,132.4718215
+224,Len Kyoto,Kyoto,2500,1.4,9.6,1,34.998732,135.7673713
+225,Little Japan,Tokyo,2100,18.5,6.2,0,0,0
+226,Lore Hostel Dontonbori,Osaka,2000,4.3,8.5,1,34.667931,135.503853
+227,Lucky's,Osaka,2500,3.2,6.2,0,0,0
+228,Lyuro Tokyo Kiyosumi -The Share Hotels-,Tokyo,3200,9.1,9.4,1,35.6812172,139.7920658
+229,montan HAKATA,Fukuoka-City,3000,2.4,7.5,0,33.588725,130.427977
+230,Mosaic Hostel Kyoto,Kyoto,2500,3.7,9.6,1,34.9803659,135.7552361
+231,Mosaic Machiya KSK,Kyoto,4000,3.5,1.3,0,0,0
+232,Music Uni Street Backpackers Hostel,Osaka,3000,6,8.9,1,34.7519746,135.4673702
+233,MyCUBE by MYSTAYS Asakusa-Kuramae,Tokyo,3200,9.2,6.5,0,35.7037857,139.7920033
+234,0deshiko Hotel Shibuya (Female Only),Tokyo,5500,3.8,9.2,1,35.6550972,139.692988
+235,0gomi-Ryokan Yuu,Kyoto,3100,2.2,5.1,1,34.99419,135.755793
+236,Nihonbashi Muromachi BAY HOTEL,Tokyo,4000,17.6,6.3,0,35.6872974,139.7756795
+237,Norishico Auto Guesthouse,Fukuoka-City,2800,16.1,10,1,33.49096,130.528032
+238,Nui. Hostel & Bar Lounge,Tokyo,2500,19.3,6.2,0,35.7038859,139.7933951
+239,O-yado Sato,Kyoto,3900,2.3,9.1,1,34.994214,135.75571
+240,Oak Hostel Zen,Tokyo,2200,8.8,8.6,0,35.7219034,139.7809311
+241,Oak Hotel Edo,Tokyo,2200,9.7,7.6,1,35.6879156,139.798931
+242,Oakhostel Cabin,Tokyo,2100,8.6,9,0,35.678055,139.7859882
+243,Oakhostel Fuji,Tokyo,2000,10,9,1,35.7069254,139.8009084
+244,Oakhostel Sakura,Tokyo,1800,11.3,8.6,0,35.70739,139.8152216
+245,Obi Hostel,Tokyo,2000,8.2,9.1,1,35.6920482,139.7819046
+246,Okara Guesthouse,Kyoto,1900,2.4,9.4,1,34.9925923,135.7550308
+247,OKI's Inn,Kyoto,2500,1.1,9.4,1,35.0086338,135.7789591
+248,Omote0shi Hostel Miyajima,Hiroshima,2500,13.5,9.1,1,34.3369812,132.319971
+249,Osaka Fuku Hostel 0gomi,Osaka,3000,4.4,9.3,1,34.667318,135.50642
+250,Osaka Fuku Hostel 0mba,Osaka,3000,14.9,4.6,0,34.6665276,135.5041027
+251,Osaka Guest House Midoriya,Osaka,2800,5.1,6,0,34.6817305,135.5485836
+252,Osaka Guesthouse Hive,Osaka,2300,20.5,1,0,34.7021661,135.489407
+253,Osaka GuestHouse KOMA,Osaka,1500,4.4,8.3,1,34.6687377,135.4895197
+254,Osaka Guesthouse Nest,Osaka,1500,6.7,8.5,1,34.6494472,135.52325
+255,Osaka Guesthouse Sakura,Osaka,2500,0.9,9.8,0,34.69898,135.505511
+256,Osaka Guesthouse SUN,Osaka,2300,4.3,3.2,0,34.6693182,135.4918195
+257,Osaka Ha0 Hostel,Osaka,2600,3.7,9.5,1,34.6731483,135.498216
+258,Osaka Hostel Kai,Osaka,2600,2.8,9.1,0,34.6931733,135.4764591
+259,Osaka Inter0tio0l Youth Hostel,Osaka,2900,20.3,9.4,1,34.532974,135.433003
+260,Osaka 0mba Hostel MIYABI,Osaka,2000,5,8.9,0,34.6620588,135.4967377
+261,Oshiteruya,Osaka,2800,6.5,7.3,1,34.663197,135.549222
+262,Peace House Abeno,Osaka,1200,6.9,4.6,0,34.6447906,135.5072578
+263,Peace House Sachi,Osaka,1200,6.5,3.2,0,34.6484984,135.5042885
+264,Peace House Sakura,Kyoto,1300,1.8,9.3,0,34.995831,135.773323
+265,Peace House Showa,Osaka,1200,6.8,7.5,1,34.6457488,135.5065439
+266,Peace House Suzu0mi,Osaka,1200,6.4,8.2,1,34.6493107,135.5122777
+267,Picnic Hostel Osaka,Osaka,2000,4.4,9.4,1,34.6692926,135.487358
+268,Piece Hostel Kyoto,Kyoto,2700,3.2,9.7,0,34.9836157,135.7621209
+269,Piece Hostel Sanjo,Kyoto,2900,0.5,9.6,0,35.008028,135.764655
+270,Planetyze Hostel,Tokyo,2400,8.5,9.3,0,35.694492,139.786004
+271,Poly Hostel Osaka,Osaka,3800,5.9,9.4,1,0,0
+272,Prime Inn Shinsaibashi,Osaka,2600,3.3,8.5,0,34.677238,135.5074622
+273,Qoo Ebisucho,Osaka,2000,5.5,5.7,1,34.657003,135.5053576
+274,Quality Hostel K's House Tokyo Oasis,Tokyo,3000,9.6,6.8,0,35.715796,139.7935305
+275,R.Star Hostel Kyoto,Kyoto,2400,1.8,9.6,1,34.997989,135.758374
+276,Retrometro Backpackers,Tokyo,3000,9.2,3.5,0,35.7131573,139.7893615
+277,RokuRoku,Kyoto,2500,2.4,9.7,1,0,0
+278,Roots Hostel,Osaka,3000,3.1,8,1,0,0
+279,RYOKAN＆HOSTEL WASABI Nippori,Tokyo,2000,17.5,5.8,0,35.732782,139.777723
+280,Sakai Guest House,Osaka,2000,14.7,6.6,1,0,0
+281,Sakura Guest House,Osaka,2700,4.3,4.9,0,36.135716,137.2414859
+282,Sakura Hostel Asakusa,Tokyo,2400,9.8,8.6,1,35.7160224,139.7948263
+283,Sakura Hotel Ikebukuro,Tokyo,2300,5.1,8.3,1,35.7336139,139.7088026
+284,Sakura Hotel Nippori,Tokyo,1900,7.8,9.1,1,35.7281692,139.764175
+285,Sakura La An,Osaka,2900,1.2,3.5,0,34.6997902,135.5123668
+286,Santiago Guesthouse Hiroshima,Hiroshima,2000,0.7,9.8,0,34.3903664,132.4594088
+287,Santiago Guesthouse Kyoto,Kyoto,1300,20.5,2.1,0,34.994416,135.775802
+288,Senba Hostel,Osaka,3500,3.2,9.1,1,34.678133,135.506513
+289,Shee0 and Ippei,Tokyo,3700,4.2,9.1,1,35.7273553,139.6930044
+290,Shell Nell 0mba,Osaka,3200,4.8,6.2,0,34.663375,135.506291
+291,Shibamata FU-TEN Bed and Local,Tokyo,3000,18.5,4.9,0,35.7597827,139.8778804
+292,Shin-Osaka Tomato Guest House,Osaka,1500,1.9,9,1,34.722974,135.495927
+293,Shin-Osaka Youth Hostel,Osaka,3200,2.8,8.9,1,34.7321448,135.5037061
+294,Small World Guesthouse in Kyoto,Kyoto,1600,19.5,4.2,0,35.0435832,135.7512884
+295,Space Hostel Tokyo,Tokyo,2200,9.1,9.1,1,35.718662,139.785652
+296,Sparkling Dolphins Inn Kyoto,Kyoto,3000,18.6,6.2,0,34.9797912,135.7628498
+297,Stayto (former: Oak Hotel),Tokyo,2500,8.7,9,1,35.711382,139.78462
+298,Suzuki Guesthouse,Kyoto,1600,2.2,9.1,0,35.0176229,135.7451539
+299,Tabetoma Nijo Castle,Kyoto,1500,1.3,9,1,35.0142299,135.748218
+300,Tabicolle Backpackers,Fukuoka-City,2500,19.5,6.4,0,33.5821253,130.4248084
+301,Tadaima Japan Shinjuku Ryokan,Tokyo,7600,2.8,8.4,1,35.6897213,139.7229976
+302,Talbot,Kyoto,2000,29.5,10,1,0,0
+303,Ta0ka Gokurakudo Guest House,Kyoto,2000,2.7,8.7,1,34.98891,135.7583091
+304,Tani9 Backpackers Osaka,Osaka,2000,14.6,7.6,0,34.6670278,135.513636
+305,The Blend Inn,Osaka,2300,4.5,9.6,1,34.684522,135.460685
+306,The Dorm Hostel Osaka,Osaka,3800,3.6,0,1,0,0
+307,The Evergreen Hostel,Hiroshima,2000,1.5,7.5,0,34.3978868,132.449763
+308,THE LIFE hostel & bar lounge,Fukuoka-City,2400,0.9,9.1,1,33.5912939,130.4113419
+309,The Lower East Nine Hostel,Kyoto,3000,3.7,8.6,0,34.9793866,135.7600257
+310,The Millennials Kyoto,Kyoto,2700,0.5,9.6,1,35.0075126,135.7688947
+311,The Millennials Shibuya,Tokyo,6300,13.6,7.9,0,35.6621966,139.6996954
+312,THE NEXT DOOR lower east nine hostel,Kyoto,3000,4,9.5,1,34.9791577,135.7500613
+313,The Pax Hostel/Records/More,Osaka,2300,16,5.6,0,34.6527146,135.5054521
+314,The Prime Pod Ginza Tokyo,Tokyo,3700,7.2,9,1,35.6692691,139.7670874
+315,The Prime Pod Kyoto,Kyoto,2500,15,4.6,0,35.0090836,135.7702541
+316,Toco Tokyo Heritage Hostel,Tokyo,3000,9.1,9.2,1,35.7220369,139.7839281
+317,Tokyo Central Youth Hostel,Tokyo,1003200,4.8,4.2,0,35.700821,139.743522
+318,Tokyo Hostel ENISHI,Tokyo,3300,4.7,8.6,1,35.6482038,139.6794363
+319,Tokyo Hostel Fuji,Tokyo,2000,1.6,6.5,0,35.692835,139.674336
+320,Tokyo House Inn,Tokyo,3800,1.5,6.8,1,35.6990062,139.7038187
+321,Tokyo Hutte,Tokyo,3000,11.3,6.2,0,35.7088828,139.8150041
+322,Tokyo Sumidagawa Youth Hostel,Tokyo,2500,8.9,7.7,0,35.6991309,139.7892234
+323,TOKYO-W-INN Asakusa,Tokyo,2500,9.3,7.1,0,35.7083161,139.7923088
+324,Tomato Kyoto Station,Kyoto,1500,3.1,8.3,1,34.986881,135.751832
+325,To0gi Hostel × Cafe,Fukuoka-City,2500,2,8.9,1,33.604248,130.41452
+326,Train Hostel HOKUTOSEI,Tokyo,2100,8.3,6.2,0,35.694048,139.7828434
+327,Turn Table Hostel,Tokyo,5400,3.8,9.6,1,35.6553861,139.6929157
+328,Umbrella House Osaka,Osaka,2300,8.5,6.8,1,34.639764,135.546582
+329,Uno Ueno,Tokyo,1500,8.2,8,1,35.7087463,139.7791708
+330,Unplan Kagurazaka,Tokyo,3200,4,8,0,35.7050654,139.7313228
+331,Very Hostel 0mba,Osaka,2500,4.9,3.2,0,34.6636522,135.4888061
+332,WeBase HAKATA,Fukuoka-City,3000,0.9,2.5,0,33.595674,130.408271
+333,WIRED HOTEL Asakusa,Tokyo,5200,9.7,3.5,0,35.7158533,139.793905
+334,Wise Owl Hostels Shibuya,Tokyo,2500,4,9.1,1,35.6537001,139.6897743
+335,Wise Owl Hostels Tokyo,Tokyo,2000,7.9,9.1,1,35.6747807,139.7772748
+336,With B,Tokyo,4000,8.6,9.1,1,0,0
+337,YADOKARI 0mba Hostel,Osaka,2500,4.7,2.4,0,0,0
+338,YADOYA Guesthouse Green,Tokyo,2300,2.6,8.2,1,35.7029083,139.6681253
+339,YADOYA Guesthouse Orange,Tokyo,2000,12.5,3.2,0,35.7065126,139.6676947
+340,YAWP! backpackers,Tokyo,2500,17.5,9.3,1,35.7528846,139.8691966
+341,You En Me House,Kyoto,2800,2.4,7.2,0,34.997376,135.749063
+342,Zabutton Hostel,Tokyo,2900,5.9,8.6,1,35.65547,139.742116
